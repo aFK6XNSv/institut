@@ -844,7 +844,7 @@
         {
          "columns":16,
          "firstgid":321,
-         "image":"..\/..\/tilesets\/oldschool\/TileA2.png",
+         "image":"oldschool\/TileA2.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
@@ -857,7 +857,7 @@
         {
          "columns":16,
          "firstgid":513,
-         "image":"..\/..\/tilesets\/oldschool\/TileA4.png",
+         "image":"oldschool\/TileA4.png",
          "imageheight":480,
          "imagewidth":512,
          "margin":0,
@@ -870,7 +870,7 @@
         {
          "columns":8,
          "firstgid":753,
-         "image":"..\/..\/tilesets\/oldschool\/TileA5.png",
+         "image":"oldschool\/TileA5.png",
          "imageheight":512,
          "imagewidth":256,
          "margin":0,
@@ -883,7 +883,7 @@
         {
          "columns":16,
          "firstgid":881,
-         "image":"..\/..\/tilesets\/oldschool\/TileB.png",
+         "image":"oldschool\/TileB.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -896,7 +896,7 @@
         {
          "columns":16,
          "firstgid":1137,
-         "image":"..\/..\/tilesets\/oldschool\/TileC.png",
+         "image":"oldschool\/TileC.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -909,7 +909,7 @@
         {
          "columns":16,
          "firstgid":1393,
-         "image":"..\/..\/tilesets\/oldschool\/TileD.png",
+         "image":"oldschool\/TileD.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -922,7 +922,7 @@
         {
          "columns":16,
          "firstgid":1649,
-         "image":"..\/..\/tilesets\/oldschool\/TileA1.png",
+         "image":"oldschool\/TileA1.png",
          "imageheight":384,
          "imagewidth":512,
          "margin":0,
